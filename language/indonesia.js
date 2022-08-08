@@ -1,5 +1,5 @@
 exports.needReg = (a, b, c) =>{
-	return`Halo ${a} 🥺, sepertinya kamu belum terdaftar di database ${b}. Daftar dulu yuk dengan cara berikut 👇\n\n${c}register nama|umur|gender|hobi\nContoh : ${c}register botwa|18|cowo|Game`
+	return`Halo ${a}, sepertinya kamu belum terdaftar di database ${b}. Daftar dulu yuk dengan cara berikut 👇\n\n${c}register nama|umur|gender|hobi\nContoh : ${c}register botwa|18|cowo|Game`
 	}
 exports.Nolimit = (prefix) =>{
 	return`Limit kamu hari ini telah habis ⚠️\n\nSilahkan beli limit dengan cara ketik ${prefix}buy atau ${prefix}buyall`
