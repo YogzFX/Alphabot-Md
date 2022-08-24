@@ -31,17 +31,17 @@ global.APIs = {
 
 // Free apikey
 global.APIKeys = {
-    'https://melcanz.com': 'elaina',
-    'https://server-api-rey.herokuapp.com': 'apirey',
-    'https://api.xteam.xyz': 'd37372311698ed1d',
-    'https://zahirr-web.herokuapp.com': 'zahirgans',
-    'https://bsbt-api-rest.herokuapp.com': 'benniismael',
-    'https://api.zeks.xyz': 'apivinz',
-    'https://hardianto-chan.herokuapp.com': 'hardianto',
-    'https://pencarikode.xyz': 'pais', 
-    'https://leyscoders-api.herokuapp.com': 'dappakntlll',
-    'https://zekais-api.herokuapp.com': 'apikeymu',
-    'https://api.lolhuman.xyz': 'Deffbotz',
+    //'https://melcanz.com': 'elaina',
+    //'https://server-api-rey.herokuapp.com': 'apirey',
+    //'https://api.xteam.xyz': 'd37372311698ed1d',
+    //'https://zahirr-web.herokuapp.com': 'zahirgans',
+    //'https://bsbt-api-rest.herokuapp.com': 'benniismael',
+    //'https://api.zeks.xyz': 'apivinz',
+    //'https://hardianto-chan.herokuapp.com': 'hardianto',
+    //'https://pencarikode.xyz': 'pais', 
+    //'https://leyscoders-api.herokuapp.com': 'dappakntlll',
+    //'https://zekais-api.herokuapp.com': 'apikeymu',
+    //'https://api.lolhuman.xyz': 'Deffbotz',
 	'https://api.zeeoneofc.xyz': 'V12',  // login https://api.zeeoneofc.xyz to get apikey || https://api-alphabot.herokuapp.com
 }
 
