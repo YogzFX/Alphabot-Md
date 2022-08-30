@@ -58,23 +58,23 @@ global.language = indonesia  //change indonesia to english if you don't understa
 
 // Other
 // Other
-global.botname = "𝒁𝒆𝒏𝒏𝑺𝒌𝒚-𝑩𝒐𝒕𝒛" //namabot kalian
-global.ownername= "YogzFX" //nama kalian
+global.botname = "Araa-MD" //namabot kalian
+global.ownername= "Ara" //nama kalian
 global.myweb ="https://chat.whatsapp.com/KNkpoT4oX5yFA18GlPttgl" //bebas asal jan hapus
 global.youtube = "https://instagram.com/karfuanyogich" //bebas asal jan hapus
 global.myweb2 = "https://github.com/YogzFX" //bebas
-global.email = "yogzkyz@gmail.com" //bebas
+global.email = "ara@gmail.com" //bebas
 global.region = "Indonesia" //bebas
 global.timezone = 'Asia/Jakarta' //  timezone wib
-global.premium = ['6289510598381'] //premium user
-global.owner = ["6289510598381","6289510598381"] //ganti agar fitur owner bisa di gunakan
-global.ownernomer = "6289510598381" // nomor wa kalian
-global.ownernomerr = "+6289510598381" //nmr wa kalian
+global.premium = ['6289504231588'] //premium user
+global.owner = ["6289504231588","6289510598381"] //ganti agar fitur owner bisa di gunakan
+global.ownernomer = "6289504231588" // nomor wa kalian
+global.ownernomerr = "+6289504231588" //nmr wa kalian
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
-global.packname = 'Created By 𝒁𝒆𝒏𝒏𝑺𝒌𝒚-𝑩𝒐𝒕𝒛' //sticker wm ubah
-global.author = '@YogzFX' //sticker wm ganti nama kalian
+global.packname = 'Created By Ara-MD' //sticker wm ubah
+global.author = '@Ara' //sticker wm ganti nama kalian
 global.sessionName = 'session'
 global.typemenu = 'document'
 global.multiplier = 69
